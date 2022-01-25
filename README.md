@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @pcachim
-- 👀 I’m interested in Python, Jupyter notebboks and Flask. Also some other stuff, but these are the most important at the moment.
-- 🌱 I’m currently performing activities and tools for Civil engineering students
-- 💞️ I’m looking to collaborate on education experiences through programming.
-- 📫 You can reach me by email orr through my social media (Facebook, Instagram).
+👋 Hi, I’m @pcachim<br/>
+👀 I’m interested in Python, Jupyter notebboks and Flask. Also some other stuff, but these are the most important at the moment.<br/>
+🌱 I’m currently performing activities and tools for Civil engineering students<br/>
+💞️ I’m looking to collaborate on education experiences through programming.<br/>
+📫 You can reach me by email orr through my social media (Facebook, Instagram).<br/>
 
-# Education
+# Basic CV infomation
+ORCID (0000-0002-0556-1056): https://orcid.org/0000-0002-0556-1056<br/>
+SCOPUS (6508124687): https://www.scopus.com/authid/detail.uri?authorId=6508124687<br/>
+CienciaVitae (F81B-8B55-3C97): https://www.cienciavitae.pt/portal/F81B-8B55-3C97<br/>
 
 # Projects
 I’m currently performing activities and tools for Civil engineering students. Prjects are aiming to both teach and help designing using structural eurocodes.
@@ -19,7 +22,6 @@ Link: https://github.com/pcachim/eurocodesnb
 Parametric questin generation for Moodle platform.<br/>
 Link: https://moodleqg.eu.pythonevrywhere.com
 
-# Publications
 
 <!---
 pcachim/pcachim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
