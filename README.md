@@ -12,10 +12,10 @@ CienciaVitae (F81B-8B55-3C97): https://www.cienciavitae.pt/portal/F81B-8B55-3C97
 # Projects
 I’m currently performing activities and tools for Civil engineering students. Prjects are aiming to both teach and help designing using structural eurocodes.
 There are some partially active projects:
-### Eurocodespy
+### Eurocodepy
 A project that provides functions in Python to help designers with structural eurcodes. <br/>
 Link: https://github.com/pcachim/eurocodepy 
-### Eurocodespy
+### Eurocodesnb
 A project with a set of Jupyter notebooks that explain and provide helpers foor struuctural engineers. <br/>
 Link: https://github.com/pcachim/eurocodesnb 
 ### MooodleQG
