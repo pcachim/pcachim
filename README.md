@@ -15,6 +15,9 @@ Link: https://github.com/pcachim/eurocodepy
 ### Eurocodespy
 A project with a set of Jupyter notebooks that explain and provide helpers foor struuctural engineers. <br/>
 Link: https://github.com/pcachim/eurocodesnb 
+### MooodleQG
+Parametric questin generation for Moodle platform.<br/>
+Link: https://moodleqg.eu.pythonevrywhere.com
 
 # Publications
 
